@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinh Phong</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [BIPBIP](https://bipbip.com/)
+- 🔭 I’m currently working on [KYANON](https://kyanon.digital/)
+- 
+- 👯 I’m front-end Mobile Developer on [BIPBIP](https://bipbip.com/)
 
 - 🌱 I’m currently learning **Flutter**
 
