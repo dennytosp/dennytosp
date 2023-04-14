@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KYANON](https://kyanon.digital/)
 
-- 👯 I’m front-end Mobile Developer on [BIPBIP](https://apps.apple.com/ca/app/tops-market/id1581932280) and [STARBUCKS VIETNAM - KHOMER - SINGAPORE (https://apps.apple.com/vn/app/starbucks-vietnam/id1410451879)
+- 👯 I’m front-end Mobile Developer on [BIPBIP](https://apps.apple.com/ca/app/tops-market/id1581932280) and [STARBUCKS VIETNAM - KHOMER - SINGAPORE](https://apps.apple.com/vn/app/starbucks-vietnam/id1410451879)
 
 - 🌱 I’m currently learning **Flutter**
 
