@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KYANON](https://kyanon.digital/)
 
-- 👯 I’m front-end Mobile Developer on [BIPBIP](https://bipbip.com/)
+- 👯 I’m front-end Mobile Developer on [Topsmarket](https://apps.apple.com/ca/app/tops-market/id1581932280), [Starbucks Vietnam](https://apps.apple.com/vn/app/starbucks-vietnam/id1410451879), [Starbucks Cambodia](https://apps.apple.com/kh/app/starbucks-cambodia/id1456402324)
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -11,7 +11,7 @@
 
 - 📝 This is a website about me written by me [http://todie.herokuapp.com/](http://todie.herokuapp.com/)
 
-- 📫 How to reach me **ken.phong1802@gmail.com**
+- 📫 How to reach me **phong.dinh2108@gmail.com**
 
 - ⚡ Fun fact **I think I'm a sociable, funny**
 
