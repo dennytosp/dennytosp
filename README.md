@@ -3,15 +3,15 @@
 I'm a self-taught passionate React Native Developer from Vietnam 🇻🇳
 
 ## 🚀 About Me
-I'm a React Native Developer with more 2 years of experience in building high-quality and performant mobile applications. I'm passionate about creating impressive user experiences and writing clean, efficient code.
+I'm a React Native Developer with 3+ years of experience in building high-quality and performant mobile applications. I'm passionate about creating impressive user experiences and writing clean, efficient code.
 
 ## 🛠 Skills
-- **Languages:** JavaScript (ES6+), TypeScript
+- **Languages:** JavaScript (ES6+), TypeScript.
 - **Frameworks:** React Native (Expo/CLI).
 - **Platforms:** Mobile (Android/IOS).
-- **State Management:** Redux, Context API.
+- **State Management:** Redux, Context API, TanStack,...
 - **Source code management:** GitHub, GitLab, Bitbucket.
-- **Tools:** Git, GitHub Desktop, Visual Studio Code, Xcode, Sourcetree, Android Studio, Jira, Debugger, Flipper, Figma,...
+- **Tools:** Cursor, Windsurf, Git, GitHub Desktop, Visual Studio Code, Xcode, Sourcetree, Android Studio, Jira, Debugger, Flipper, Figma,...
 - **API:** Axios, RESTful API.
 
 ## 🔗 Links
