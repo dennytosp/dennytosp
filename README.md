@@ -3,7 +3,7 @@
 I'm a self-taught passionate React Native Developer from Vietnam 🇻🇳
 
 ## 🚀 About Me
-I'm a React Native Developer with 3+ years of experience in building high-quality and performant mobile applications. I'm passionate about creating impressive user experiences and writing clean, efficient code.
+I'm a React Native Developer with 4+ years of experience in building high-quality and performant mobile applications. I'm passionate about creating impressive user experiences and writing clean, efficient code.
 
 ## 🛠 Skills
 - **Languages:** JavaScript (ES6+), TypeScript.
