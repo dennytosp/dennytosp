@@ -62,7 +62,3 @@ I care about:
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&layout=compact&langs_count=6" height="180" />
   </picture>
 </div>
-
----
-
-✨ *Currently diving deeper into React Native’s new architecture, JSI, and motion systems.*
