@@ -1,60 +1,68 @@
-# Hi there, I'm <a href="https://github.com/dennytosp">Mad Dinh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 👋 Hi, I'm <a href="https://github.com/dennytosp">Mad Dinh</a>
 
-I'm a self-taught passionate React Native Developer from Vietnam 🇻🇳
+From Vietnam 🇻🇳 — a developer who loves building things that work beautifully and feel effortless to use.
+
+---
 
 ## 🚀 About Me
-I'm a React Native Developer with 4+ years of experience in building high-quality and performant mobile applications. I'm passionate about creating impressive user experiences and writing clean, efficient code.
 
-## 🛠 Skills
-- **Languages:** JavaScript (ES6+), TypeScript.
-- **Frameworks:** React Native (Expo/CLI).
-- **Platforms:** Mobile (Android/IOS).
-- **Domains:** E-Commerce, Government, Internal.
-- **State Management:** Redux, Context API, TanStack,...
-- **Source code management:** GitHub, GitLab, Bitbucket.
-- **Tools:** Git, GitHub Desktop, Visual Studio Code, Xcode, Sourcetree, Android Studio, Jira, Debugger, Flipper, Figma,...
-- **APIs:** RESTful, GraphQL,...
-- **Deployment:** TestFlight, Play Console, Fastlane, Firebase Distribution, GitLab Enterprise CI/CD,...
-- **Firebase:** FCM, Analytics, Crashlytics, Remote Config, A/B Testing,...
-- **Upgrade:** React Native, Native SDK, Android SDK,...
-- **Payment:** Payoo, Zalo, Momo, ABA Bank,...  
+I’ve spent the last few years developing and maintaining mobile applications across e-commerce, retail, and internal systems.  
+My focus has always been on **code quality**, **smooth interaction**, and a **development process that feels reliable** — from local builds to production release.
 
-## 🧑‍💻 Personal Skills
-- Teamwork & communication.
-- Technical document research.
-- Problem-solving.
+I enjoy exploring the edge between UX and engineering: animations that feel natural, build pipelines that save time, and tooling that keeps teams moving forward.  
+I like building things that quietly make the developer experience better.
 
-## 🔗 Links
+---
+
+## 🧩 Open-Source Work
+
+I maintain and contribute to a few libraries that came from real project needs:
+
+- 🧠 [**react-native-motionify**](https://github.com/dennytosp/react-native-motionify) — lightweight motion utilities for scroll-based and gesture-driven animations.  
+- ⚡ [**eas-local-cache**](https://github.com/dennytosp/eas-local-cache) — local caching layer for EAS builds to skip redundant uploads and speed up local workflows.
+
+Each library starts from a small pain point — then grows into something others can use too.
+
+---
+
+## 💭 Philosophy
+
+> *“Good code is invisible — users just feel it works.”*
+
+I care about:
+- Writing code that’s predictable and maintainable.  
+- Keeping animations smooth and purposeful.  
+- Automating what’s repetitive, but always keeping control.  
+- Building things that people — and developers — actually enjoy using.
+
+---
+
+## 🌐 Connect
+
 <div align="left">
-  <a href="mailto:example@yourdomain.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/dinhtienphong"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://twitter.com/oceandawy"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="twitter logo" /></a>
+  <a href="mailto:phongdinh.dev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32"/></a>
+  <a href="https://www.linkedin.com/in/dinhtienphong"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32"/></a>
+  <a href="https://twitter.com/oceandawy"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32"/></a>
 </div>
 
-## 🌐 GitHub Overview
+---
+
+## 📊 GitHub Overview
 
 <div>
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" height="180"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" height="180"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=denntosp&show_icons=true" />
-</picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&count_private=true&theme=transparent" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&count_private=true&theme=transparent" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true" height="180" />
+  </picture>
 
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&hide=c%23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" height="180" alt="languages graph" height="180"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&hide=c%23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" height="180" alt="languages graph" height="180"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denntosp&show_icons=true" />
-</picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&layout=compact&langs_count=6&theme=transparent" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&layout=compact&langs_count=6&theme=transparent" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&layout=compact&langs_count=6" height="180" />
+  </picture>
 </div>
+
+---
+
+✨ *Currently diving deeper into React Native’s new architecture, JSI, and motion systems.*
