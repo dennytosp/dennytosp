@@ -47,18 +47,12 @@ I care about:
 
 ---
 
-## 📊 GitHub Overview
+## 📈 Github Stats
 
 <div>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&count_private=true&theme=transparent" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&count_private=true&theme=transparent" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&theme=transparent" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&theme=transparent"(prefers-color-scheme: light)" />
     <img src="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true" height="180" />
-  </picture>
-
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&layout=compact&langs_count=6&theme=transparent" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&layout=compact&langs_count=6&theme=transparent" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennytosp&layout=compact&langs_count=6" height="180" />
   </picture>
 </div>
