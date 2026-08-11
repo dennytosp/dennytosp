@@ -44,15 +44,3 @@ I care about:
   <a href="https://www.linkedin.com/in/dinhtienphong"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32"/></a>
   <a href="https://twitter.com/oceandawy"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32"/></a>
 </div>
-
----
-
-## 📈 Github Stats
-
-<div>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&theme=transparent" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true&theme=transparent"(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dennytosp&show_icons=true" height="180" />
-  </picture>
-</div>
